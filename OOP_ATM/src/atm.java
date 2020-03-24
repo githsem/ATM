@@ -23,7 +23,7 @@ public class atm {
                 System.out.println("Kalan Giris Hakki  :  "+giris_hakki);
             }
             if (giris_hakki==0){
-                System.out.println("Giris Hakkiniz Bitti...");
+                System.out.println("Giris  Hakkiniz  Bitti...");
                 return;
             }
                            
