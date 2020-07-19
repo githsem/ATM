@@ -1,2 +1,2 @@
 # ATM
- Nesne Yonelimli Atm Projesi
+Object Oriented ATM Project
