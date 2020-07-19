@@ -1,2 +1,2 @@
 # ATM
-Object Oriented ATM Project
+ATM Project
